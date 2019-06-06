@@ -1,4 +1,5 @@
-# Dashboard-On-water-and-oil-leak_rate-of-Automobiles part Using Nodejs. 
+# Dashboard-On-water-and-oil-leak_rate-of-Automobiles part Using Nodejs and Canvas.js
+
 It has seven dashboard out of which two dashboards are dynamic and updated in a given interval of time.
 The .SQL dump is attached with it,the data has the machine Id ,its Status and water and oil leak_rate along with the programe_no is used for the purpose of distinguishing the model no 
 It has 8 machines and 11 models 
